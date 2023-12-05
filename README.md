@@ -2,7 +2,7 @@
 
 Libraries what you need to install before of instalation of Vivado in Linux.
 
-## Instalation
+## Installation
 
 To install you need:
 
