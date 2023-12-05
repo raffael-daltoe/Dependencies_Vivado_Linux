@@ -21,14 +21,11 @@ To install you need:
 ## Use
 
 If you need, you can uncomment the lines to install the drivers:
-  
-      
+
       sudo /tools/Xilinx/Vivado/2023.2/data/xicom/cable_drivers/lin64/install_script/install_drivers/install_drivers
       sudo /tools/Xilinx/Vivado/2023.2/data/xicom/cable_drivers/lin64/install_script/install_drivers/setup_pcusb
-      
-
 And if you have more other error, you need to uncomment this line also:
-      
+
       cp 52-xilinx-*.* /etc/udev/rules.d
     
     
