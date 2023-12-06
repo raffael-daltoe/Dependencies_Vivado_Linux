@@ -23,8 +23,8 @@ xorg \
 fxload \
 #vivado-boards-git
 
-sudo /tools/Xilinx/Vivado/2023.2/data/xicom/cable_drivers/lin64/install_script/install_drivers/install_drivers
+#sudo /tools/Xilinx/Vivado/2023.2/data/xicom/cable_drivers/lin64/install_script/install_drivers/install_drivers
 
-sudo /tools/Xilinx/Vivado/2023.2/data/xicom/cable_drivers/lin64/install_script/install_drivers/setup_pcusb
+#sudo /tools/Xilinx/Vivado/2023.2/data/xicom/cable_drivers/lin64/install_script/install_drivers/setup_pcusb
 
-cp 52-xilinx-*.* /etc/udev/rules.d
+#cp 52-xilinx-*.* /etc/udev/rules.d
